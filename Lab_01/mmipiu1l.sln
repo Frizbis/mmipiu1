@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "mmipiu1l", "Debug\mmipiu1l.exe", "{6C1137D0-76B5-4B28-9E05-DC0E69EFA0E3}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\frizbis\source\repos\mmipiu1l\Debug\mmipiu1l.exe
+		RemoteMachine = DESKTOP-E3HBKI8
+		StartingDirectory = C:\Users\frizbis\source\repos\mmipiu1l\Debug
+		Environment = По умолчанию
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1137D0-76B5-4B28-9E05-DC0E69EFA0E3}.Debug|x64.ActiveCfg = Release|x86
+		{6C1137D0-76B5-4B28-9E05-DC0E69EFA0E3}.Debug|x86.ActiveCfg = Release|x86
+		{6C1137D0-76B5-4B28-9E05-DC0E69EFA0E3}.Release|x64.ActiveCfg = Release|x86
+		{6C1137D0-76B5-4B28-9E05-DC0E69EFA0E3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F202FF5E-E7D0-418B-BBF6-D13FBC27D850}
+	EndGlobalSection
+EndGlobal
